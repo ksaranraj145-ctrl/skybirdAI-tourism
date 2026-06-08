@@ -1,0 +1,12 @@
+Node.js
+Express.js
+React.js
+MySQL
+Cors
+Dotenv
+MySQL2
+Sequelize
+JSON Web Token (JWT)
+BcryptJS
+Axios
+Bootstrap
